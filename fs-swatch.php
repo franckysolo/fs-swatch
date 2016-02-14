@@ -1,7 +1,7 @@
 <?php
 /**
  * @package     Swatch
- * @author      Franck Matherat - contact@franckysolo-development.com
+ * @author      Franck Matherat - franckysolo@gmail.com
  * @version     1.0
  * @desc        Testing plugin development
  */
