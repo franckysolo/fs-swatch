@@ -1,5 +1,5 @@
 /**
- * @author franckysolo
+ * @author franckysolo - franckysolo@gmail.com
  * @category Swatch Plugin
  * @version 1.0
  */
