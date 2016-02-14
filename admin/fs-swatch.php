@@ -1,7 +1,7 @@
 <?php
 /**
  * 
- * @author franckysolo - <franckysolo@gmail.com>
+ * @author franckysolo - franckysolo@gmail.com
  * @category Wordpress Plugin
  * @package Swatch
  * @version 1.0
