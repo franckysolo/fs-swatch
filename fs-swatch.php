@@ -12,7 +12,7 @@
  */
 /*
  Plugin Name: Swatch 1.0
- Plugin URI:  http://URI_Of_Page_Describing_Plugin_and_Updates
+ Plugin URI:  http://github.com/franckysolo/fs-swatch
  Description: Display locale date and a dynamic swatch using JavaScript on dashboard, useless plugin!
  Version:     1.0
  Author:      Franck Matherat
