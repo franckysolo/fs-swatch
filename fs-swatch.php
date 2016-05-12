@@ -15,7 +15,7 @@
  Plugin URI:  http://github.com/franckysolo/fs-swatch
  Description: Display locale date and a dynamic swatch using JavaScript on dashboard, useless plugin!
  Version:     1.1
- Author:      Franck Matherat
+ Author:      MATHERAT Franck
  Author URI:  http://franckysolo-productions.com/
  License:     GPL2
  License URI: https://www.gnu.org/licenses/gpl-2.0.html
