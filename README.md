@@ -1,5 +1,5 @@
 # Fs-swatch 1.1
-Contributors: franckysolo 
+Contributors: franckysolo   
 Donate link: http://www.franckysolo-productions.com/  
 Tags: weather,forecast,sidebar,plugin  
 Requires at least: 4.4  
