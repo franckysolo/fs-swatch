@@ -10,9 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
 
-A simple admin plugin to test plugin wordpress development
-The plugin display locale date and dynamic swatch on administration pages
-The plugin has been translated in two languages versions : en_US & fr_FR  
+A simple admin plugin to test plugin wordpress development  
+The plugin display locale date and dynamic swatch on administration pages  
+The plugin has been translated in two languages versions : en_US & fr_FR    
 
 ## Installation
 
