@@ -2,19 +2,19 @@
 /**
  * @package     Swatch
  * @author      Franck Matherat - franckysolo@gmail.com
- * @version     1.0
+ * @version     1.1
  * @desc        Testing plugin development
  */
 /*
- Plugin Name: Swatch 1.0
+ Plugin Name: Swatch 1.1
  Text Domain: fs-swatch
  Domain Path: /languages
  */
 /*
- Plugin Name: Swatch 1.0
+ Plugin Name: Swatch 1.1
  Plugin URI:  http://github.com/franckysolo/fs-swatch
  Description: Display locale date and a dynamic swatch using JavaScript on dashboard, useless plugin!
- Version:     1.0
+ Version:     1.1
  Author:      Franck Matherat
  Author URI:  http://franckysolo-productions.com/
  License:     GPL2

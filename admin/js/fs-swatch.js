@@ -1,22 +1,12 @@
 /**
  * @author franckysolo - franckysolo@gmail.com
  * @category Swatch Plugin
- * @version 1.0
+ * @version 1.1
  */
 jQuery(function ($) {
 	function chrono() {
-	   var date = new Date(),
-	  		h = date.getHours(),
-	  		s = date.getSeconds(),
-	  		i = date.getMinutes(),
-	  		timeArray = [h, i, s],
-	  		stringTime = '';		
-	  
-	  var stringTime = timeArray.map(function (e) {
-	    if (parseInt(e) < 10)
-	      return "0" + e;
-	   return "" + e;}).join(':');
-	  $('#fs-swatch').html(stringTime);
+	   var date = new Date();
+	  $('#fs-swatch').html(date.toLocaleTimeString());
 	}
 	
 	$(function () {

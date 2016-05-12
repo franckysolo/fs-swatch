@@ -4,7 +4,7 @@
  * @author franckysolo - franckysolo@gmail.com
  * @category Wordpress Plugin
  * @package Swatch
- * @version 1.0
+ * @version 1.1
  */
 class Fs_Swatch_Generator {
 
