@@ -1,5 +1,5 @@
 === Swatch 1.1 ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: franckysolo
 Donate link: http://www.franckysolo-productions.com/
 Tags: weather,forecast,sidebar,plugin
 Requires at least: 4.4
